@@ -16,7 +16,11 @@ bigimg:
   - "/img/big-imgs/vietnam-ricefield.jpeg" : ""
 ---
 
-<div class="index-posts-title">Blog posts:</div>
+<div class="index-posts-title">Desserts:
+<br/>
+<hr class="small" />
+</div>
+<br/>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
