@@ -6,14 +6,14 @@ css: "/css/index.css"
 meta-title: "Sahil Midha"
 meta-description: "Graduate student with a Bachelor of Technology in Computer Science. Work experience as a software engineer and android developer. Watch out for my blogs that would serve like desserts after your meal. Do see my projects I have worked on."
 bigimg:
-  - "/img/big-imgs/hawaii1.jpeg" : ""
-  - "/img/big-imgs/hawaii2.jpeg" : ""
-  - "/img/big-imgs/hawaii-turtles.jpg" : ""  
-  - "/img/big-imgs/laos-pond2.jpeg" : ""
-  - "/img/big-imgs/laos-pond1.jpeg" : ""
-  - "/img/big-imgs/laos-pond3.jpeg" : ""
-  - "/img/big-imgs/vietnam-dunes2.jpeg" : ""
-  - "/img/big-imgs/vietnam-ricefield.jpeg" : ""
+  - "/img/big-imgs/hawaii1.jpeg" : "Kauai, HI, USA (2014)"
+  - "/img/big-imgs/hawaii2.jpeg" : "Kauai, HI, USA (2014)"
+  - "/img/big-imgs/hawaii-turtles.jpg" : "Oahu, HI, USA (2016)"  
+  - "/img/big-imgs/laos-pond2.jpeg" : "Luang Prabang, Laos (2014)"
+  - "/img/big-imgs/laos-pond1.jpeg" : "Luang Prabang, Laos (2014)"
+  - "/img/big-imgs/laos-pond3.jpeg" : "Luang Prabang, Laos (2014)"
+  - "/img/big-imgs/vietnam-dunes2.jpeg" : "Mui Ne, Vietnam (2013)"
+  - "/img/big-imgs/vietnam-ricefield.jpeg" : "Sapa, Vietnam (2013)"
 ---
 
 <div class="posts-list">
