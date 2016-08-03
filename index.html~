@@ -3,7 +3,7 @@ layout: page
 title: "Hi, I'm Sahil"
 subtitle: Android Developer / Dynamic Presenter / A Traveller
 css: "/css/index.css"
-meta-title: "Sahil Midha"
+meta-title: "Sahil Midha - Tech Desserts author, Android Developer. Tech blogs majorly on Android and writing good code."
 meta-description: "Graduate student with a Bachelor of Technology in Computer Science. Work experience as a software engineer and android developer. Watch out for my blogs that would serve like desserts after your meal. Do see my projects I have worked on."
 bigimg:
   - "/img/big-imgs/hawaii1.jpeg" : ""
@@ -16,10 +16,8 @@ bigimg:
   - "/img/big-imgs/vietnam-ricefield.jpeg" : ""
 ---
 
-<div class="index-posts-title">Desserts:
-<br/>
+<div class="index-posts-title">Desserts</div>
 <hr class="small" />
-</div>
 <br/>
 
 <div class="posts-list">
