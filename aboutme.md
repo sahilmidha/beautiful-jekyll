@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Or: why you'd want to go on a date with me
+description: Or: why you'd want to go on a date with me
 css: "/css/aboutme.css"
 ---
 
@@ -59,7 +59,7 @@ Grew up in <i>Karnal, Haryana</i>, moved to <i>Faridabad, Haryana</i> during my 
       <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
     </div>
   </div>
-  <input type="hidden" name="_subject" value="New submission from deanattali.com">
+  <input type="hidden" name="_subject" value="New submission from techdesserts.com">
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
@@ -69,4 +69,3 @@ Grew up in <i>Karnal, Haryana</i>, moved to <i>Faridabad, Haryana</i> during my 
 </div>
 
 <br/><br/>
-<hr class="small" />
