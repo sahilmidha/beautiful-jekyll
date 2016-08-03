@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Sahil Midha
+title: Tech Desserts
 
 # Short description of your site
 description: Graduate student with a Bachelor of Technology in Computer Science. Work experience as a software engineer and android developer. Watch out for my blogs that would serve like desserts after your meal. Do see my projects I have worked on.
@@ -23,7 +23,7 @@ description: Graduate student with a Bachelor of Technology in Computer Science.
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: ""
+  Desserts: ""
   Projects: "projects"
   About Me/ Contact: "aboutme"
 nav-search: "search"

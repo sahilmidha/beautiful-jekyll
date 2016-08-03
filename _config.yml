@@ -23,7 +23,7 @@ description: Graduate student with a Bachelor of Technology in Computer Science.
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: ""
+  Desserts: ""
   Projects: "projects"
   About Me/ Contact: "aboutme"
 nav-search: "search"
@@ -78,7 +78,7 @@ disqus: "techdesserts-com"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /desserts/:year-:month-:day-:title/
 paginate: 5
 
 kramdown:

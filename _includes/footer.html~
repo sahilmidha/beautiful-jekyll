@@ -90,8 +90,12 @@
 
           {% if site.author.email %}
           &nbsp;&bull;&nbsp;
-          <a href="mailto:{{ site.author.email }}?subject=Hello from {{ site.url-pretty }}">{{ site }}</a>
+          <a href="mailto:{{ site.author.email }}?subject=Hello from {{ site.url-pretty }}">techdesserts.com</a>
           {% endif %}
+        </p>
+	<p class="theme-by text-muted">
+          Special Thanks to
+          <a href="http://deanattali.com">Dean Attali</a>
         </p>
       </div>
     </div>
