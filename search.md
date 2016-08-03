@@ -23,3 +23,5 @@ css: "/css/search.css"
 <gcse:search></gcse:search>
 <gcse:searchresults></gcse:searchresults>
 </div>
+
+
