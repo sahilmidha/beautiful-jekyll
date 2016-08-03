@@ -52,7 +52,7 @@ author:
  
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
   email: true
   twitter: true
@@ -70,7 +70,7 @@ url-pretty: "techdesserts.com"
 disqus: "techdesserts-com"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+#google_analytics: "UA-81849599-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
@@ -78,7 +78,7 @@ disqus: "techdesserts-com"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /desserts/:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
