@@ -70,7 +70,7 @@ url-pretty: "techdesserts.com"
 disqus: "techdesserts-com"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-81849599-1"
+google_analytics: "UA-81849599-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
