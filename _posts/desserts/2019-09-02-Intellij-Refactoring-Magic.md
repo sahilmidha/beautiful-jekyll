@@ -1,12 +1,3 @@
-
----
-title: Explore Intellij's Refactoring Magic
-tags: [Intellij, productivity, tutorial]
-permalink: /desserts/2019-09-02-Intellij-Magic/
-date: 2019-09-02 12:00:00 -0400
----
-
-
 **Inline Method**
 
 Use when there is Disruption in the flow of method.
@@ -68,8 +59,14 @@ Use `⌃⌥V` for extracting variable.
     <img src="http://techdesserts.com/img/inline-method-refactoring-2.gif" alt="refactoring gif">
 </div>
 
+<br/><br/>
+
 <div style="text-align:center;">
     <img src="http://techdesserts.com/img/inline-method-refactoring-3.gif" alt="refactoring gif">
 </div>
 
+<br/><br/>
+
 Reference : https://blog.jetbrains.com/idea/2019/07/refactoring-inline-method-in-intellij-idea/
+
+<br/>
