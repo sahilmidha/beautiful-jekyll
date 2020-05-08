@@ -12,7 +12,7 @@ List<String> getSortedListOfNames(List<Speaker> speakers) {
         sortSpeakerNames(speakerNames);
         return speakerNames;
     }
- 
+
 private void sortSpeakerNames(List<String> speakerNames) {
         Collections.sort(speakerNames);
 }
@@ -41,11 +41,11 @@ List<String> getSortedListOfNames(List<Speaker> speakers) {
 }
 ```
 
-First use inline method and replace method call with code. Then use context actions and convert for loop into streams. 
+First use inline method and replace method call with code. Then use context actions and convert for loop into streams.
 
 Jump to next suggestions and errors by using `F2`. Use options in context actions like **Inline variable** to remove redundent variables.
 
-Select a code block and use extract method command `⌃⌥M -> Ctrl + Option + M` to put that code into a function. 
+Select a code block and use extract method command `⌃⌥M -> Ctrl + Option + M` to put that code into a function.
 
 Simply using `F2`, `Alt+Enter` in sequence can help us refactor our code to a great extent.
 
@@ -56,13 +56,13 @@ If you come across an expression that is hard to understand or it is duplicated 
 Use `⌃⌥V` for extracting variable.
 
 <div style="text-align:center;">
-    <img src="http://techdesserts.com/img/inline-method-refactoring-2.gif" alt="refactoring gif">
+    <img src="http://techdesserts.com/assets/img/inline-method-refactoring-2.gif" alt="refactoring gif">
 </div>
 
 <br/><br/>
 
 <div style="text-align:center;">
-    <img src="http://techdesserts.com/img/inline-method-refactoring-3.gif" alt="refactoring gif">
+    <img src="http://techdesserts.com/assets/img/inline-method-refactoring-3.gif" alt="refactoring gif">
 </div>
 
 <br/><br/>
