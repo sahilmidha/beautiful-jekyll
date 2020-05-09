@@ -5,6 +5,7 @@ subtitle: Intellij refactoring tips
 readtime: true
 nav-short	: true
 show-avatar: false
+comments: false
 tags: [Productivity, Intellij]
 ---
 
