@@ -1,3 +1,10 @@
+---
+layout: post
+title: Intellij Refactorig Magic
+subtitle: Intellij refactoring tips
+tags: [Productivity, Intellij]
+---
+
 **Inline Method**
 
 Use when there is Disruption in the flow of method.
