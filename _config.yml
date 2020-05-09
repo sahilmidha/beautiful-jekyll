@@ -29,7 +29,7 @@ navbar-links:
   Tags: "tags"
   Projects: "projects"
   About Me/ Contact: "aboutme"
-  nav-search: "search"
+  Search: "search"
   #Resources:
    #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    #- Learn markdown: "http://www.markdowntutorial.com/"
