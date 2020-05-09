@@ -2,7 +2,10 @@
 layout: post
 title: Intellij Refactorig Magic
 subtitle: Intellij refactoring tips
+readtime: true
 tags: [Productivity, Intellij]
+nav-short	: true
+layout: post
 ---
 
 **Inline Method**

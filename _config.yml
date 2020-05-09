@@ -99,20 +99,30 @@ url-pretty: "techdesserts.com"
 link-tags: true
 
 # Excerpt Word Length - Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 30
 
 # --- Colours / background image --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#1F3343"
-navbar-text-col: "#FFFFFF"
-navbar-border-col: "#1F3343"
+# navbar-col: "#1F3343"
+# navbar-text-col: "#FFFFFF"
+# navbar-border-col: "#1F3343"
+# page-col: "#FFFFFF"
+# link-col: "#FFFFFF"
+# hover-col: "#0085A1"
+# footer-col: "#1F3343"
+# footer-text-col: "#FFFFFF"
+# footer-link-col: "#B0BEC5"
+
+navbar-col: "#FFFFFF"
+navbar-text-col: "#1F3343"
+navbar-border-col: "#FFFFFF"
 page-col: "#FFFFFF"
-link-col: "#FFFFFF"
+link-col: "#1F3343"
 hover-col: "#0085A1"
-footer-col: "#1F3343"
-footer-text-col: "#FFFFFF"
+footer-col: "#FFFFFF"
+footer-text-col: "#1F3343"
 footer-link-col: "#B0BEC5"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
