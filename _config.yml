@@ -17,7 +17,7 @@ baseurl: ""
 title: Tech Desserts
 
 # Short description of your site
-description: Graduate student with a Bachelor of Technology in Computer Science. Work experience as a software engineer and android developer. Watch out for my blogs that would serve like desserts after your meal. Do see my projects I have worked on.
+description: Graduate student with a Bachelor of Technology in Computer Science. Work experience as a android software engineer. Watch out for my blogs that would serve like desserts after your meal. Do see my projects I have worked on.
 
 # Your name to show in the footer
 author: Sahil Midha
@@ -53,11 +53,11 @@ round-avatar: true
 social-network-links:
   name: Sahil Midha
   email: "sahil.mh@gmail.com"
-  facebook: sahil.mh
+  #facebook: sahil.mh
   github: sahilmidha
   twitter: _sahilmh
   linkedin: in/sahilmh  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: yourlink  # eg. "3943160/daattali"
+  #stackoverflow: yourlink  # eg. "3943160/daattali"
   rss: true
 
 #  reddit: yourname
@@ -78,7 +78,7 @@ social-network-links:
 # Select which links to show in the footer
 footer-links-active:
   rss: true
-  facebook: true
+  facebook: false
   email: true
   twitter: true
   github: true
@@ -105,7 +105,7 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#448AFF"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
