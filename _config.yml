@@ -25,7 +25,8 @@ author: Sahil Midha
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Desserts: ""
+  Home: ""
+  Tags: "tags"
   Projects: "projects"
   About Me/ Contact: "aboutme"
   nav-search: "search"
