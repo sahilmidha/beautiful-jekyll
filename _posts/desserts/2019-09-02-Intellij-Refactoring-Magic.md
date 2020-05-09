@@ -4,6 +4,7 @@ title: Intellij Refactorig Magic
 subtitle: Intellij refactoring tips
 readtime: true
 nav-short	: true
+show-avatar: false
 tags: [Productivity, Intellij]
 ---
 
